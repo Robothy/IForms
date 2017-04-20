@@ -7,6 +7,6 @@ is based on WeChat.
 
 # Autor
 
-Robothy Zjc Yusw
+Robothy Zjcai Yusw
 
 
