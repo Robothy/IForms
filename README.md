@@ -5,5 +5,8 @@ There are many online form tools, but almost none of then are free. Google Form 
 can not enjoy it because of the Great Firewall. Consequently, we want to develop a form tool (IForms -- WeChat mini program ) which 
 is based on WeChat. 
 
+# Autor
+
+Robothy Zjc Yusw
 
 
